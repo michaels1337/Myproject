@@ -21,6 +21,9 @@ func main() {
 	fmt.Println(puppy.BigBark())
 	fmt.Println(puppy.BigBarks())
 
-	// Version 1.0.0
+	for i := 0; i < 10; i++ {
+		fmt.Println(i)
+	}
+	// Version 1.0.1
 
 }
